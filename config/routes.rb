@@ -2,6 +2,6 @@
 
 module Htest
   class Routes < Hanami::Routes
-    root { "Hello from Hanami" }
+    root { "Hello from Hanami (in a container)" }
   end
 end
